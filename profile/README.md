@@ -1,9 +1,11 @@
-Welcome to the **HyprCommunity** 🌟. A community where you can **develop and contribute** 💻 to all software within the **Hyprland ecosystem** 🌐. We are more than just an official organization; we are a **Hyprland community** 🤝.
+# Welcome to the **HyprCommunity** 🌟
 
 <p align="center">
   <img align="left" width="320" src="YOUR_IMAGE_URL_HERE" alt="HyprCommunity Banner" style="border-radius:12px; margin-right:20px;">
 </p>
 
+A community where you can **develop and contribute** 💻 to all software within the **Hyprland ecosystem** 🌐.  
+We are more than just an official organization; we are a **Hyprland community** 🤝.
 
 <br clear="left"/>
 
