@@ -1,12 +1,10 @@
 <svg width="300" height="320" viewBox="0 0 300 320" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Gradyan: koyu mavi → açık mavi -->
     <linearGradient id="hyprGradient" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#1A3DE6"/>
       <stop offset="100%" stop-color="#29D5FF"/>
     </linearGradient>
 
-    <!-- Doğal beyaz parıltı -->
     <linearGradient id="naturalWhite" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9"/>
       <stop offset="70%" stop-color="#E6F7FF" stop-opacity="0.6"/>
@@ -14,7 +12,6 @@
     </linearGradient>
   </defs>
 
-  <!-- Dış damla -->
   <path d="M150 20
            C150 20, 70 136, 70 180
            C70 222, 105 250, 150 250
@@ -22,7 +19,6 @@
            C230 136, 150 20, 150 20 Z"
         fill="url(#hyprGradient)"/>
 
-  <!-- Sol kenara yaslanmış, yumuşak gradyanlı beyaz yansıma -->
   <path d="M128 84
            C112 110, 104 150, 118 182
            C126 198, 144 202, 156 192
@@ -32,7 +28,6 @@
         fill="url(#naturalWhite)"
         opacity="0.9"/>
 
-  <!-- Keskinleştirilmiş metin -->
   <text x="150" y="295"
         font-family="Inter, Segoe UI, Roboto, sans-serif"
         font-size="32"
