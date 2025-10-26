@@ -1,7 +1,7 @@
 # Welcome to the **HyprCommunity** 🌟
 
 <p align="center">
-  <img align="left" width="320" src="https://avatars.githubusercontent.com/u/234083768?s=200&v=4" alt="HyprCommunity Banner" style="border-radius:12px; margin-right:20px;">
+  <img align="left" width="320" src="https://raw.githubusercontent.com/hyprcommunity/.github/main/profile/svg/hyprcommunity.svg" alt="HyprCommunity Banner" style="border-radius:12px; margin-right:20px;">
 </p>
 
 A community where you can **develop and contribute** 💻 to all software within the **Hyprland ecosystem** 🌐.  
